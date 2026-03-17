@@ -68,3 +68,9 @@ pip install -r requirements.txt
 jupyter notebook
 
 5.Open the .ipynb file and run all cells
+----------------------------------------------------
+👩‍💻 Author
+Akshada Mahadik
+📧 [www.linkedin.com/in/akshadamahadik-84482338a]
+
+🔗 [github.com/akshadamahadik]
